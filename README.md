@@ -7,6 +7,11 @@ This repository contains various Power BI projects and reports I have created.
 ### Audit Efficiency and Effectiveness
 
 - [Audit Efficiency and Effectiveness.pbix](Audit Efficiency and Effectiveness.pdf) - Enhancing audit efficiency with insights on operational days, due audits, remote audit frequency, and auditor performance, alongside a snapshot of order distribution by country.
+- ![Screenshot 2023-11-19 at 4 09 21 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/60cade62-8519-4e6d-ac4b-4d26ffa21276)
+- ![Screenshot 2023-11-19 at 4 10 14 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/3becc653-8ff6-49ca-8617-bb4a373252cd)
+![Screenshot 2023-11-19 at 4 09 57 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/d63cd670-f4c0-4c68-b6a4-51bab88fb98f)
+
+
 
 ### Education Data Insights
 
