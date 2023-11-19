@@ -16,14 +16,25 @@ This repository contains various Power BI projects and reports I have created.
 ### Education Data Insights
 
 - [Education Data Insights.pbix](Education Data Insights.pdf) - Education Data Insights presents subject statistics across various academies, distinguishing between disadvantaged and non-disadvantaged students. Key metrics include basic 5+ stats, offering a comprehensive overview of academic performance and disparities.
+- ![Screenshot 2023-11-19 at 4 13 12 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/1f053d51-7bcf-47d6-89ac-36314ef48310)
+![Screenshot 2023-11-19 at 4 12 51 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/ba72133f-048a-4fc9-9970-19d35bafcef1)
+![Screenshot 2023-11-19 at 4 12 32 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/4bac4ed4-4163-4677-8a2a-6be0c3dff819)
+
 
 ### Index of Multiple Deprivation
 
 - [Index of Multiple Deprivation.pbix](Index of Multiple Deprivation.pdf) - Analyzes IMD scores, income deprivation, employment, crime, and geographical barriers, providing concise insights for targeted interventions and policies in different districts.
+- ![Screenshot 2023-11-19 at 4 14 40 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/e86751ad-60aa-45a5-be5d-61d1bc0c4ad7)
+![Screenshot 2023-11-19 at 4 14 03 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/8271057d-f6ca-4565-8ede-b990396c46e3)
+
 
 ### Supplier Performance and SLA Optimization
 
-- [Supplier Performance and SLA Optimization.pbix](Supplier Performance and SLA Optimization.pdf) - Optimize Supplier Performance and SLA adherence, providing a concise yet insightful overview of store sizes, store takings, supplier performance, and relationship management. 
+- [Supplier Performance and SLA Optimization.pbix](Supplier Performance and SLA Optimization.pdf) - Optimize Supplier Performance and SLA adherence, providing a concise yet insightful overview of store sizes, store takings, supplier performance, and relationship management.
+- ![Screenshot 2023-11-19 at 4 16 15 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/5266e531-3404-425c-af7b-69d7b4d80034)
+![Screenshot 2023-11-19 at 4 15 57 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/8bba3453-4016-4f8a-a603-7cf3a6454bea)
+![Screenshot 2023-11-19 at 4 15 40 AM](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/8bb6d6f0-4907-4e51-87eb-75842f3e1e23)
+
 
 ## About Power BI
 
