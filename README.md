@@ -61,4 +61,3 @@ Key capabilities include:
 3. Open the file in Power BI Desktop
 4. Interact with the report and explore the visuals
 
-Let me know if you have any other questions!
