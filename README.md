@@ -5,7 +5,7 @@ This repository contains various Power BI projects and reports I have created.
 
 ## Projects
 
-### Audit Efficiency and Effectiveness
+## Audit Efficiency and Effectiveness
 
  [Audit Efficiency and Effectiveness.pbix](Audit Efficiency and Effectiveness.pdf)  
  
@@ -17,7 +17,7 @@ This repository contains various Power BI projects and reports I have created.
 
 
 
-### Education Data Insights
+## Education Data Insights
 
 [Education Data Insights.pbix](Education Data Insights.pdf) 
 
@@ -30,7 +30,7 @@ This repository contains various Power BI projects and reports I have created.
 
 
 
-### Index of Multiple Deprivation
+## Index of Multiple Deprivation
 
 [Index of Multiple Deprivation.pbix](Index of Multiple Deprivation.pdf) 
 
@@ -41,7 +41,7 @@ This repository contains various Power BI projects and reports I have created.
 
 
 
-### Supplier Performance and SLA Optimization
+## Supplier Performance and SLA Optimization
 
 [Supplier Performance and SLA Optimization.pbix](Supplier Performance and SLA Optimization.pdf) 
 
