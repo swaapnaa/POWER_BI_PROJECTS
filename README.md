@@ -1,4 +1,4 @@
-#  ![power-bi-icon-7](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/83df2784-5643-4427-82c5-ad9d857fc97b)
+# POWER BI PROJECTS ![icons8-power-bi-2021-48](https://github.com/swaapnaa/POWER_BI_PROJECTS/assets/149737403/4ac85a90-281f-4f5a-aaed-bff358542e36)
 
 
 This repository contains various Power BI projects and reports I have created.
